@@ -25,7 +25,8 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
 
 ### Statistical Functions
 - Mean: Calculate the average of a set of numbers.
-- Median: Find the middle value of a dataset.
+- Median: Find the middle value.
+- Mode: find the most repeated value.
 - Standard Deviation (`stdev`): Measure the amount of variation or dispersion.
 - Population Standard Deviation (`stdevp`): Similar to standard deviation but for a population.
 
@@ -44,10 +45,11 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
 - Permutation: Find the number of ways to arrange k elements from a set of n elements.
 
 ### Mathematical Functions
+- Round: Round a number to the nearest integer.
 - Floor: Round down to the nearest integer.
 - Ceil: Round up to the nearest integer.
 - Variance: Measure the spread of a dataset.
-- Angle Conversion: Convert between gradian, radian, and degree.
+- Angle Conversion: Convert between `gradian`, `radian`, and `degree`.
 - Trigonometric Functions: Calculate `sin`, `cos`, `tan`, `sin inverse`, `cos inverse`, `tan inverse`.
 - Reminder and Root Square: Find the remainder and square root of a number.
 - Logarithmic Functions: Compute `log` and `ln`.
