@@ -6,7 +6,6 @@
 
 - [Introduction](#introduction)
  - [Features](#features)
- - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
 
@@ -56,4 +55,21 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
 - Absolute Value: Find the absolute value of a number.
 
 
-## Installation 
+
+## Usage
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins.git
+2. **Navigate to Repository:**
+   ```bash
+   cd scientific-calculator
+3. **Install the requirements dependencies**
+   ```bash
+   pip install -r requirements.txt
+4. **Run Main Script:**
+   ```bash
+   python main.py
+5. **Calculator Interface:**
+   The calculator interface will open, providing you with a window to perform various mathematical operations.
+6. **Perform Operations:**
+   Enter the desired mathematical expressions, equations, or statistical functions directly into the calculator window.
