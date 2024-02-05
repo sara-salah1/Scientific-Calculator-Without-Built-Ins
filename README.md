@@ -62,7 +62,7 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
    git clone https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins.git
 2. **Navigate to Repository:**
    ```bash
-   cd scientific-calculator
+   cd Scientific Calculator
 3. **Install the requirements dependencies**
    ```bash
    pip install -r requirements.txt
