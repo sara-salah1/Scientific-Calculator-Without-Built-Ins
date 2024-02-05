@@ -1,16 +1,17 @@
 # Scientific-Calculator-Without-Built-Ins
 
- This is a Scientific Calculator implemented in python. it performing a wide range of mathematical operations and statistical analyses. This calculator, designed with simplicity and functionality in mind, supports basic arithmetic operations, statistical calculations, linear and quadratic equations, matrix operations, and more.
+ This is a Scientific Calculator implemented in Python. it performs a wide range of mathematical operations and statistical analyses. This calculator, designed with simplicity and functionality in mind, supports basic arithmetic operations, statistical calculations, linear and quadratic equations, matrix operations, and more.
 
+## Table of Contents
 
+- [Introduction](#introduction)
  - [Features](#features)
-  - [Basic Operations](#basic-operations)
-  - [Statistical Functions](#statistical-functions)
-  - [Equations](#equations)
-  - [Matrix Operations](#matrix-operations)
-  - [Combinatorics](#combinatorics)
-  - [Mathematical Functions](#mathematical-functions)
-- [Installation](#installation)
+
+
+## Introduction 
+The goal of this Scientific Calculator repository is to provide a versatile and user-friendly tool for individuals engaged in mathematical computations and statistical analyses. Whether you're a student working on assignments, a scientist conducting research, or someone needing a reliable calculator for various tasks.
+
+Designed with simplicity in mind, this scientific calculator supports basic arithmetic operations, statistical functions, equation solving, matrix operations, combinatorics, and a variety of mathematical functions. From simple calculations to complex statistical analyses, this calculator aims to be your reliable companion.
 
 ## Features
 
