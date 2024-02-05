@@ -75,10 +75,12 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
    Enter the desired mathematical expressions, equations, or statistical functions directly into the calculator window.
 
 ## Screenshots
+![Screenshot 2024-02-05 183003](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/7c328e9f-b32d-4376-b3a9-946dcab524a4)
+![Screenshot 2024-02-05 183232](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/cd8c4778-18a6-4d5f-9f74-9393442e1625)
+![Screenshot 2024-02-05 184004](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/2d469806-b471-4cdb-b181-1a6c1c0bc213)
 
 
 
-![Screenshot1](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/0c94e712-385a-4a75-b3b0-cd199fd33548)  ![Screenshot 2](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/3cd2c8e2-3bba-4238-9c49-4f1040ce07a3)
 
 
 
