@@ -6,6 +6,9 @@
 
 - [Introduction](#introduction)
  - [Features](#features)
+ - [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
 
 
 ## Introduction 
@@ -28,8 +31,8 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
 - Population Standard Deviation (`stdevp`): Similar to standard deviation but for a population.
 
 ### Equations
-- Linear Equation: Solve equations of the form ax + b = 0.
-- Quadratic Equation: Find the roots of quadratic equations in the form ax^2 + bx + c = 0.
+- Linear Equation: Solve equations of the form `ax + b = 0`.
+- Quadratic Equation: Find the roots of quadratic equations in the form `ax^2 + bx + c = 0`.
 
 ### Matrix Operations
 - Addition: Add two matrices together.
@@ -46,8 +49,11 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
 - Ceil: Round up to the nearest integer.
 - Variance: Measure the spread of a dataset.
 - Angle Conversion: Convert between gradian, radian, and degree.
-- Trigonometric Functions: Calculate sin, cos, tan, sin inverse, cos inverse, tan inverse.
+- Trigonometric Functions: Calculate `sin`, `cos`, `tan`, `sin inverse`, `cos inverse`, `tan inverse`.
 - Reminder and Root Square: Find the remainder and square root of a number.
-- Logarithmic Functions: Compute log and ln.
+- Logarithmic Functions: Compute `log` and `ln`.
 - Power: Raise a number to a specified power.
 - Absolute Value: Find the absolute value of a number.
+
+
+## Installation 
