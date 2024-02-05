@@ -77,7 +77,8 @@ Designed with simplicity in mind, this scientific calculator supports basic arit
 ## Screenshots
 ![Screenshot 2024-02-05 183003](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/7c328e9f-b32d-4376-b3a9-946dcab524a4)
 ![Screenshot 2024-02-05 183232](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/cd8c4778-18a6-4d5f-9f74-9393442e1625)
-![Screenshot 2024-02-05 184004](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/2d469806-b471-4cdb-b181-1a6c1c0bc213)
+![Screenshot 2024-02-05 183158](https://github.com/sara-salah1/Scientific-Calculator-Without-Built-Ins/assets/67710906/4bd8c68f-a9fd-4699-bfda-567de8b17096)
+
 
 
 
