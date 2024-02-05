@@ -11,9 +11,9 @@
 
 
 ## Introduction 
-The goal of this Scientific Calculator repository is to provide a versatile and user-friendly tool for individuals engaged in mathematical computations and statistical analyses. Whether you're a student working on assignments, a scientist conducting research, or someone needing a reliable calculator for various tasks.
+The goal of this Scientific Calculator repository is to provide a versatile and user-friendly tool for individuals engaged in mathematical computations and statistical analyses
 
-Designed with simplicity in mind, this scientific calculator supports basic arithmetic operations, statistical functions, equation solving, matrix operations, combinatorics, and a variety of mathematical functions. From simple calculations to complex statistical analyses, this calculator aims to be your reliable companion.
+Designed with simplicity in mind, this scientific calculator supports basic arithmetic operations, statistical functions, equation solving, matrix operations, combinatorics, and a variety of mathematical functions. From simple calculations to complex statistical analyses.
 
 ## Features
 
