@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
  - [Features](#features)
 - [Usage](#usage)
-- [Contribution](#contribution)
+- [Screenshots](#Screenshots)
 
 
 ## Introduction 
